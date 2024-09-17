@@ -202,7 +202,7 @@ export default function Projects() {
             projectName={"Login Page"}
             aboutProject={"Create a simple login page using HTML for structure and CSS for styling and layout."}
             techStack={"HTML, CSS"}
-            projectLiveLink="https://login-page-01-3stoj4g57-shivam-sonis-projects-da4d4d2d.vercel.app/"
+            projectLiveLink="https://login-page-01.vercel.app/"
             projectLink="https://github.com/Shivam-GLA/Login-Page-01.git"
           />
           <ProjectCard
@@ -218,7 +218,7 @@ export default function Projects() {
             projectName={"Modern Login Page"}
             aboutProject={"A login page using HTML for structure, CSS for styling and transitions, and JavaScript for dynamic effects."}
             techStack={"HTML, CSS, JAVASCRIPT"}
-            projectLiveLink="https://modern-login-page-04-acu5s17gu-shivam-sonis-projects-da4d4d2d.vercel.app/"
+            projectLiveLink="https://modern-login-page-04.vercel.app/"
             projectLink="https://github.com/Shivam-GLA/Modern-Login-Page-04.git"
           />
           <ProjectCard
